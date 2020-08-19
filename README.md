@@ -7,7 +7,7 @@
 > 
 > 👍 I'm working at [4pet-social](https://github.com/4pet-social)
 >
-> My hobby is guitar 🎸, xiangqi ♟ and strategy game 🎮.
+> 🥞 My hobby is guitar 🎸, xiangqi ♟ and strategy game 🎮.
 > 
 > ✈ How to find me? [Linkedin](https://www.linkedin.com/in/tvc12/) - [Telegram](https://t.me/yeutham212) - [Mail 📧](mailto:meomeocf98@gmail.com)
 > 
