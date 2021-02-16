@@ -56,13 +56,13 @@ Sunday       90 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Dart                     2 hrs 3 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 2 hrs 3 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 3 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
