@@ -21,7 +21,7 @@
 
 > 🏆 514 Contributions in the Year 2021
  > 
-> 📦 151.2 kB Used in Github's Storage 
+> 📦 151.4 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -83,5 +83,5 @@ Scala                    6 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 03/08/2021
+ Last Updated on 04/08/2021
 <!--END_SECTION:waka-->
