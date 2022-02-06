@@ -13,6 +13,8 @@
 > 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C388%20hrs%2036%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-568%20Thousand%20lines%20of%20code-blue)
@@ -56,17 +58,13 @@ Sunday       74 commits     ██████░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Scala                    2 hrs 16 mins       ████████████████████████░   96.83% 
-SQL                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.64% 
-sbt                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.29% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24%
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 2 hrs 17 mins       ████████████████████████░   97.36% 
-VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.64%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 20 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -83,5 +81,5 @@ Scala                    6 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 05/02/2022 23:26:13 UTC
+ Last Updated on 06/02/2022 05:21:42 UTC
 <!--END_SECTION:waka-->
