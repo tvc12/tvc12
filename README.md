@@ -13,8 +13,6 @@
 > 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C391%20hrs%2042%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-568%20Thousand%20lines%20of%20code-blue)
@@ -23,7 +21,7 @@
 
 > 🏆 0 Contributions in the Year 2022
  > 
-> 📦 154.7 kB Used in GitHub's Storage 
+> 📦 154.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -81,5 +79,5 @@ Scala                    6 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 07/02/2022 11:20:50 UTC
+ Last Updated on 08/02/2022 23:21:18 UTC
 <!--END_SECTION:waka-->
