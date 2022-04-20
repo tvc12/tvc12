@@ -13,11 +13,9 @@
 > 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C656%20hrs%2047%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-568%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-561%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -81,5 +79,5 @@ Scala                    6 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 20/04/2022 11:21:18 UTC
+ Last Updated on 20/04/2022 23:24:19 UTC
 <!--END_SECTION:waka-->
