@@ -13,7 +13,7 @@
 > 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-373%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
@@ -81,5 +81,5 @@ Scala                    6 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2022 23:24:03 UTC
+ Last Updated on 17/08/2022 05:49:29 UTC
 <!--END_SECTION:waka-->
