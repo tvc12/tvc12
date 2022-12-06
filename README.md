@@ -1,85 +1,43 @@
-### Hi there 👋
-![](https://media1.tenor.com/images/9aa4aee77151757a310fcdb4b8fd2a0a/tenor.gif?itemid=12671405)
+I'm a lazy developer from Vietnam 🇻🇳
+<p align="center">
+<a href="https://anuraghazra.github.io"><img width="40%" alt="Hello, I'm tvc12" src="https://media1.tenor.com/images/9aa4aee77151757a310fcdb4b8fd2a0a/tenor.gif?itemid=12671405" />
+</a>
+</p>
+<br />
 
-### About me 😍😍
+**About me**
 
-> 🙎 I'm Thien Vi Chi
-> 
-> 👍 I'm working at [4pet-social](https://github.com/4pet-social)
->
-> 🥞 My hobby is guitar 🎸, xiangqi ♟ and strategy game 🎮.
-> 
-> ✈ How to find me? [Linkedin](https://www.linkedin.com/in/tvc12/) - [Telegram](https://t.me/yeutham212) - [Mail 📧](mailto:meomeocf98@gmail.com)
-> 
+- 💼 Full-stack Engineer at [Datainsider](https://datainsider.co/)
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C656%20hrs%2047%20mins-blue)
+- ❤️ I love Scala language
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+- 💬 Ask me about anything [here](https://github.com/tvc12/tvc12/issues)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-568%20Thousand%20lines%20of%20code-blue)
+<code><img height="20" alt="scala" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="vue" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" alt="flutter" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" alt="dart" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" alt="docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 
-**🐱 My GitHub Data** 
+| <a href="https://github.com/tvc12/tvc12"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tvc12&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="tvc12's github stats" /></a> | <a href="https://github.com/tvc12/tvc12"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tvc12&layout=compact&theme=buefy&hide_border=true" /></a> |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-> 🏆 120 Contributions in the Year 2022
- > 
-> 📦 160.3 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 37 Public Repositories 
- > 
-> 🔑 15 Private Repositories  
- > 
-**I'm an Early 🐤** 
+#### Top Repositories
 
-```text
-🌞 Morning    26 commits     ██████░░░░░░░░░░░░░░░░░░░   24.53% 
-🌆 Daytime    61 commits     ██████████████░░░░░░░░░░░   57.55% 
-🌃 Evening    18 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.98% 
-🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.94%
+<a href="https://github.com/tvc12/rocket-bi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=datainsider-co&repo=rocket-bi&theme=buefy" />
+</a>
+<a href="https://github.com/uiters/store-pattern">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tvc12&repo=store-pattern&theme=buefy" />
+</a>
 
-```
-📅 **I'm Most Productive on Friday** 
+<a href="https://github.com/tvc12/tiengviet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tvc12&repo=tiengviet&theme=buefy" />
+</a>
+<a href="https://github.com/uiters/store-pattern">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=uiters&repo=hotel-management-v2&theme=buefy" />
+</a>
 
-```text
-Monday       25 commits     ██████░░░░░░░░░░░░░░░░░░░   23.58% 
-Tuesday      11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.38% 
-Wednesday    7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.6% 
-Thursday     15 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.15% 
-Friday       31 commits     ███████░░░░░░░░░░░░░░░░░░   29.25% 
-Saturday     10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.43% 
-Sunday       7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.6%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in Dart** 
-
-```text
-Dart                     17 repos            ██████░░░░░░░░░░░░░░░░░░░   26.98% 
-C#                       8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.7% 
-Vue                      8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.7% 
-Java                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
-Scala                    6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52%
-
-```
-
-
-
- Last Updated on 05/12/2022 23:24:25 UTC
-<!--END_SECTION:waka-->
+<br />
+<br />
