@@ -25,7 +25,7 @@ I'm a lazy developer from Vietnam 🇻🇳
 
 #### Top Repositories
 
-<a href="https://github.com/tvc12/rocket-bi">
+<a href="https://github.com/datainsider-co/rocket-bi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=datainsider-co&repo=rocket-bi&theme=buefy" />
 </a>
 <a href="https://github.com/uiters/store-pattern">
