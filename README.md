@@ -7,7 +7,7 @@ I'm a lazy developer from Vietnam 🇻🇳
 
 **About me**
 
-- 💼 Full-stack Engineer at [...](.)
+- 💼 Software Engineer at [...](.)
 
 - ❤️ I love Scala language
 
