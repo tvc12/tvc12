@@ -7,7 +7,7 @@ I'm a lazy developer from Vietnam 🇻🇳
 
 **About me**
 
-- 💼 Software Engineer at [...](.)
+- 💼 POWER stack (PO, PM, FE, BE, DevOps, DE, DA, Tester) at [...](.)
 
 - ❤️ I love Scala language
 
